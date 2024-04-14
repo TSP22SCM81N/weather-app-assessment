@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TSP22SCM81N/weather-app-assessment/static/css/main.2f248995.css",
+    "main.js": "/TSP22SCM81N/weather-app-assessment/static/js/main.baf8ae71.js",
+    "static/media/cold.jpg": "/TSP22SCM81N/weather-app-assessment/static/media/cold.65b844a3197717cf78a1.jpg",
+    "static/media/hot.jpg": "/TSP22SCM81N/weather-app-assessment/static/media/hot.97163db4925510594ab4.jpg",
+    "index.html": "/TSP22SCM81N/weather-app-assessment/index.html",
+    "main.2f248995.css.map": "/TSP22SCM81N/weather-app-assessment/static/css/main.2f248995.css.map",
+    "main.baf8ae71.js.map": "/TSP22SCM81N/weather-app-assessment/static/js/main.baf8ae71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f248995.css",
+    "static/js/main.baf8ae71.js"
+  ]
+}
